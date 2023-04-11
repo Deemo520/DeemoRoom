@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<!-- Created with matplotlib (https://matplotlib.org/) -->
+<svg width="432pt" height="216pt" version="1.1" viewBox="0 0 432 216" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">*{stroke-linecap:butt;stroke-linejoin:round;}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="m0 216h432v-216h-432z" fill="#fff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="m108 198.72h216v-198.5h-216z" fill="#fff"/>
+   </g>
+   <g id="Quiver_1">
+    <path d="m216.36 98.744 34.967 17.483v-1.8112l6.1581 5.7959-8.3316-1.449 1.449-1.0867-34.967-17.483 0.72449-1.449" clip-path="url(#p20a00f156c)" fill="#ff7f50"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m421754def5" d="m0 0v3.5" stroke="#000" stroke-width=".8"/>
+      </defs>
+      <use x="129.6" y="99.468" stroke="#000000" stroke-width=".8" xlink:href="#m421754def5"/>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <use x="172.8" y="99.468" stroke="#000000" stroke-width=".8" xlink:href="#m421754def5"/>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <use x="216" y="99.468" stroke="#000000" stroke-width=".8" xlink:href="#m421754def5"/>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <use x="259.2" y="99.468" stroke="#000000" stroke-width=".8" xlink:href="#m421754def5"/>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <use x="302.4" y="99.468" stroke="#000000" stroke-width=".8" xlink:href="#m421754def5"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_6">
+      <defs>
+       <path id="mc122a0fff0" d="m0 0h-3.5" stroke="#000" stroke-width=".8"/>
+      </defs>
+      <use x="216" y="178.8696" stroke="#000000" stroke-width=".8" xlink:href="#mc122a0fff0"/>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_7">
+      <use x="216" y="139.1688" stroke="#000000" stroke-width=".8" xlink:href="#mc122a0fff0"/>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_8">
+      <use x="216" y="99.468" stroke="#000000" stroke-width=".8" xlink:href="#mc122a0fff0"/>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_9">
+      <use x="216" y="59.7672" stroke="#000000" stroke-width=".8" xlink:href="#mc122a0fff0"/>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_10">
+      <use x="216" y="20.0664" stroke="#000000" stroke-width=".8" xlink:href="#mc122a0fff0"/>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_11">
+    <path d="m152.05 217 118.61-218" clip-path="url(#p20a00f156c)" fill="none" stroke="#1e90ff" stroke-linecap="square" stroke-width="1.5"/>
+   </g>
+   <g id="line2d_12">
+    <path d="m221.8 88.815 11.592 5.3264-5.7959 10.653" clip-path="url(#p20a00f156c)" fill="none" stroke="#228b22" stroke-linecap="square" stroke-width="1.5"/>
+   </g>
+   <g id="patch_3">
+    <path d="m216 198.72v-198.5" fill="none" stroke="#000" stroke-linecap="square" stroke-width=".8"/>
+   </g>
+   <g id="patch_4">
+    <path d="m324 198.72v-198.5" fill="none"/>
+   </g>
+   <g id="patch_5">
+    <path d="m108 99.468h216" fill="none" stroke="#000" stroke-linecap="square" stroke-width=".8"/>
+   </g>
+   <g id="patch_6">
+    <path d="m108 0.216h216" fill="none"/>
+   </g>
+   <g id="Quiver_2">
+    <path d="m214.81 98.839 18.403-34.902-3.0143-0.065056 9.8669-10.04-2.7107 13.814-1.7565-2.4505-18.403 34.902-2.3854-1.2578" clip-path="url(#p20a00f156c)" fill="#ff7f50"/>
+   </g>
+   <g id="text_1">
+    <!-- $\mathbf{w}\cdot\mathbf{x}=0$ -->
+    <defs>
+     <path id="STIXGeneral-Bold-119" d="m70.703 46.094v-2.3906q-1.9062-0.40625-2.9531-1.4062t-2.0469-3.5938l-15.5-40.109h-2.2969l-10.203 31-12.5-31h-2.4062l-14.797 37.406q-1.9062 4.7031-2.8594 6-0.9375 1.2969-2.8438 1.7031v2.3906h22.203v-2.3906q-3.7969-0.5-3.7969-2.7969 0-1.2031 3.8906-11.5l4.5-11.812 6.8125 17.109q-0.40625 1.2031-0.60938 1.8906-1.3906 4.9062-2.2031 5.8594-0.79688 0.95312-3.6875 1.25v2.3906h23.391v-2.3906q-2.7969-0.20312-3.7969-0.70312t-1-1.7031q0-1.3906 2.7031-10.594 2.2969-7.9062 3.3906-12.703l3.5 9.4062q4.4062 11.797 4.4062 12.797 0 1.7031-1 2.4531t-3.7969 1.0469v2.3906z"/>
+     <path id="STIXGeneral-Regular-8901" d="m16.797 31.297q3.5-3.5938 3.5-6 0-2.3906-1.75-4.2031-1.75-1.7969-4.1562-1.7969-2.3906 0-4.25 1.8438-1.8438 1.8594-1.8438 4.1562t1.8438 4.1406q1.8594 1.8594 4.25 1.8594 2.4062 0 5.9062-3.5938z"/>
+     <path id="STIXGeneral-Bold-120" d="m48.406 0h-24.109v2.4062q4.5 0.29688 4.5 2 0 1.5938-3.2969 6.3906-2.2969 3.2031-4.2031 6.2969-0.20312-0.1875-0.75-0.89062t-0.84375-1.1094q-6.4062-7.6875-6.4062-10.297 0-2.0938 5-2.3906v-2.4062h-16.891v2.4062q2.7969 0.1875 4.9375 1.9375 2.1562 1.75 6.3594 7.3594l4.2969 5.5938q0.5 0.60938 0.75 0.95312t0.34375 0.4375q0.10938 0.10938 0.35938 0.45312 0.25 0.35938 0.75 0.95312l-12.797 19.703q-1.5 2.2969-2.4062 2.9531t-2.7969 0.95312v2.3906h25v-2.3906q-4.7031-0.10938-4.7031-1.9062 0-2.2031 5.7969-9.7969 1-1.2031 1.2969-1.7031l3.6094 4.6094q3.7969 4.8906 3.7969 6.3906 0 1.1094-0.70312 1.5469-0.70312 0.45312-2.3906 0.65625l-2 0.20312v2.3906h16.797v-2.3906q-4.4062-0.70312-7-3.9062l-10.109-12.594 14.812-22.797q0.79688-1.3125 3-2z"/>
+     <path id="STIXGeneral-Regular-61" d="m63.703 32h-58.906v6.5938h58.906zm0-20h-58.906v6.5938h58.906z"/>
+     <path id="STIXGeneral-Regular-48" d="m47.594 33q0-6.7031-1.2969-12.656-1.2969-5.9375-3.8438-10.938t-7.0469-7.9062-10.406-2.9062q-6.0938 0-10.703 3.0938-4.5938 3.1094-7.0938 8.3125t-3.6562 11.094q-1.1406 5.9062-1.1406 12.5 0 9.3125 2.2969 16.75 2.2969 7.4531 7.6406 12.344 5.3594 4.9062 13.062 4.9062 9.7969 0 15.984-9.5938 6.2031-9.5938 6.2031-25zm-9.5938-0.5q0 15.797-3.3594 24.141-3.3438 8.3594-9.8438 8.3594-6.2031 0-9.5-8.4062-3.2969-8.3906-3.2969-23.688 0-15.406 3.2969-23.562 3.2969-8.1406 9.7031-8.1406 6.2969 0 9.6406 8.1406 3.3594 8.1562 3.3594 23.156z"/>
+    </defs>
+    <g transform="translate(144.72 135.2) scale(.14 -.14)">
+     <use transform="translate(0 .40625)" xlink:href="#STIXGeneral-Bold-119"/>
+     <use transform="translate(86.64 .40625)" xlink:href="#STIXGeneral-Regular-8901"/>
+     <use transform="translate(129.68 .40625)" xlink:href="#STIXGeneral-Bold-120"/>
+     <use transform="translate(194.12 .40625)" xlink:href="#STIXGeneral-Regular-61"/>
+     <use transform="translate(277.06 .40625)" xlink:href="#STIXGeneral-Regular-48"/>
+    </g>
+   </g>
+   <g id="text_2">
+    <!-- $\mathbf{w}$ -->
+    <g transform="translate(261.36 125.27) scale(.14 -.14)">
+     <use transform="translate(0 .90625)" xlink:href="#STIXGeneral-Bold-119"/>
+    </g>
+   </g>
+   <g id="text_3">
+    <!-- $\mathbf{x}$ -->
+    <g transform="translate(248.4 55.797) scale(.14 -.14)">
+     <use transform="translate(0 .90625)" xlink:href="#STIXGeneral-Bold-120"/>
+    </g>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="m1f07ed3291" d="m0 3c0.79561 0 1.5587-0.3161 2.1213-0.87868 0.56258-0.56258 0.87868-1.3257 0.87868-2.1213s-0.3161-1.5587-0.87868-2.1213c-0.56258-0.56258-1.3257-0.87868-2.1213-0.87868s-1.5587 0.3161-2.1213 0.87868c-0.56258 0.56258-0.87868 1.3257-0.87868 2.1213s0.3161 1.5587 0.87868 2.1213c0.56258 0.56258 1.3257 0.87868 2.1213 0.87868z" stroke="#000"/>
+    </defs>
+    <g clip-path="url(#p20a00f156c)">
+     <use x="216" y="99.468" fill="#ff7f50" stroke="#000000" xlink:href="#m1f07ed3291"/>
+    </g>
+   </g>
+   <g id="PathCollection_2">
+    <g clip-path="url(#p20a00f156c)">
+     <use x="240.624" y="54.209088" fill="#ff7f50" stroke="#000000" xlink:href="#m1f07ed3291"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p20a00f156c">
+   <rect x="108" y=".216" width="216" height="198.5"/>
+  </clipPath>
+ </defs>
+</svg>
