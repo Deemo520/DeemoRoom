@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<!-- Created with matplotlib (https://matplotlib.org/) -->
+<svg width="432pt" height="216pt" version="1.1" viewBox="0 0 432 216" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">*{stroke-linecap:butt;stroke-linejoin:round;}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="m0 216h432v-216h-432z" fill="#fff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="m0.432 215.78h195.97v-215.57h-195.97z" fill="#fff"/>
+   </g>
+   <g id="line2d_1">
+    <path d="m98.417 75.665-29.396 64.67h58.791l-29.396-64.67" clip-path="url(#p8f815bec02)" fill="none" stroke="#000" stroke-dasharray="5.55,2.4" stroke-width="1.5"/>
+   </g>
+   <g id="patch_3">
+    <path d="m0.432 215.78v-215.57" fill="none" stroke="#000" stroke-linecap="square" stroke-width=".8"/>
+   </g>
+   <g id="patch_4">
+    <path d="m196.4 215.78v-215.57" fill="none" stroke="#000" stroke-linecap="square" stroke-width=".8"/>
+   </g>
+   <g id="patch_5">
+    <path d="m0.432 215.78h195.97" fill="none" stroke="#000" stroke-linecap="square" stroke-width=".8"/>
+   </g>
+   <g id="patch_6">
+    <path d="m0.432 0.216h195.97" fill="none" stroke="#000" stroke-linecap="square" stroke-width=".8"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="m3ca986b4ba" d="m-3 3 6-6m-6 0 6 6" stroke="#00f" stroke-width="1.5"/>
+    </defs>
+    <g clip-path="url(#p8f815bec02)" fill="#0000ff" stroke="#0000ff" stroke-width="1.5">
+     <use x="98.417455" y="75.6648" xlink:href="#m3ca986b4ba"/>
+     <use x="69.021818" y="140.3352" xlink:href="#m3ca986b4ba"/>
+     <use x="127.813091" y="140.3352" xlink:href="#m3ca986b4ba"/>
+    </g>
+   </g>
+   <g id="PathCollection_2">
+    <defs>
+     <path id="mdb3dc3a2fe" d="m0 3c0.79561 0 1.5587-0.3161 2.1213-0.87868 0.56258-0.56258 0.87868-1.3257 0.87868-2.1213s-0.3161-1.5587-0.87868-2.1213c-0.56258-0.56258-1.3257-0.87868-2.1213-0.87868s-1.5587 0.3161-2.1213 0.87868c-0.56258 0.56258-0.87868 1.3257-0.87868 2.1213s0.3161 1.5587 0.87868 2.1213c0.56258 0.56258 1.3257 0.87868 2.1213 0.87868z" stroke="#000"/>
+    </defs>
+    <g clip-path="url(#p8f815bec02)">
+     <use x="98.417455" y="108" fill="#ff0000" stroke="#000000" xlink:href="#mdb3dc3a2fe"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_7">
+    <path d="m235.6 215.78h195.97v-215.57h-195.97z" fill="#fff"/>
+   </g>
+   <g id="line2d_2">
+    <path d="m333.58 75.665-29.396 64.67h58.791l-29.396-64.67" clip-path="url(#pae42c040c6)" fill="none" stroke="#000" stroke-dasharray="5.55,2.4" stroke-width="1.5"/>
+   </g>
+   <g id="patch_8">
+    <path d="m235.6 215.78v-215.57" fill="none" stroke="#000" stroke-linecap="square" stroke-width=".8"/>
+   </g>
+   <g id="patch_9">
+    <path d="m431.57 215.78v-215.57" fill="none" stroke="#000" stroke-linecap="square" stroke-width=".8"/>
+   </g>
+   <g id="patch_10">
+    <path d="m235.6 215.78h195.97" fill="none" stroke="#000" stroke-linecap="square" stroke-width=".8"/>
+   </g>
+   <g id="patch_11">
+    <path d="m235.6 0.216h195.97" fill="none" stroke="#000" stroke-linecap="square" stroke-width=".8"/>
+   </g>
+   <g id="PathCollection_3">
+    <g clip-path="url(#pae42c040c6)">
+     <use x="333.582545" y="108" fill="#0000ff" stroke="#0000ff" stroke-width="1.5" xlink:href="#m3ca986b4ba"/>
+    </g>
+   </g>
+   <g id="PathCollection_4">
+    <g clip-path="url(#pae42c040c6)" fill="#ff0000" stroke="#000000">
+     <use x="333.582545" y="75.6648" xlink:href="#mdb3dc3a2fe"/>
+     <use x="304.186909" y="140.3352" xlink:href="#mdb3dc3a2fe"/>
+     <use x="362.978182" y="140.3352" xlink:href="#mdb3dc3a2fe"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p8f815bec02">
+   <rect x=".432" y=".216" width="195.97" height="215.57"/>
+  </clipPath>
+  <clipPath id="pae42c040c6">
+   <rect x="235.6" y=".216" width="195.97" height="215.57"/>
+  </clipPath>
+ </defs>
+</svg>
